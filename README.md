@@ -13,7 +13,7 @@ I started off with a YouTube tutorial to create the basis for the R script, sinc
 
 
 **Lessons Learned:**
-This project taught me how to use R, in addition to manipulating images in Python. Using R, a statistis-based language helped me start to learn the importance of languages like R, and the role they play within the software development ecosystem/industry. In addition, despite the number of Python projects I have complete, I have rarely worked with images. 
+This project taught me how to use R, in addition to manipulating images in Python. Using R, a statistical language, helped me start to learn the importance of languages like R, and the role they play within the software development ecosystem/industry. In addition, despite the number of Python projects I have complete, I have rarely worked with images. 
 
 
 **Installations (All three are necessary to run):**
