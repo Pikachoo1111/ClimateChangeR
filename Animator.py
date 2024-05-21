@@ -5,10 +5,10 @@ import imageio.v2 as imageio
 input_folder = '/workspaces/ClimateChangeR/Images'
 
 # Set the output file name
-output_file = 'output_animation.gif'
+output_file = 'output_animation_slowed_framerate.gif'
 
 # Set the frame rate (in seconds per frame)
-frame_rate = 0.2  # Change this value to adjust frame rate
+frame_rate = 1  # Change this value to adjust frame rate
 
 # Get the list of image files in the folder
 image_files = sorted([os.path.join(input_folder, file) for file in os.listdir(input_folder) if file.endswith('.png') or file.endswith('.jpg')])
